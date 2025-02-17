@@ -55,6 +55,15 @@ The code is organized into the following sections:
 
 ---
 
+## Demo
+
+- You can run the `a.exe` output file compiled using `gcc`.
+  or
+try :
+
+---
+
+
 ## How to Use
 
 1. **Clone the Repository**:
@@ -65,7 +74,7 @@ The code is organized into the following sections:
 2. **Compile the Code**:
    Use a C compiler (e.g., `gcc`) to compile the code:
    ```bash
-   gcc main.c -o bus_reservation_system
+   gcc BRS.c -o bus_reservation_system
    ```
 
 3. **Run the Program**:
