@@ -151,11 +151,7 @@ Here are some screenshots of the system in action:
 4. **Input Validation**:
    - Improve input validation to handle invalid data gracefully.
 
----
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
