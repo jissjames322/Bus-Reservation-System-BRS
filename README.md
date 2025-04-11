@@ -154,14 +154,6 @@ Here are some screenshots of the system in action:
 
 
 ---
-
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- **GitHub**: [jissjames322](https://github.com/jissjames322)
-- **Email**: jissjames322@gmail.com
-
----
-
-Thank you for using the **Bus Reservation System**! We hope you find it useful and easy to use. Happy coding! 🚌💻
+<div align=center>  
+![Run Demo](https://img.shields.io/badge/Run_Demo-4D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)(https://replit.com/@leviisinsane/Bus-Reservation-System-BRS#BRS.C)
+</div>
