@@ -155,5 +155,5 @@ Here are some screenshots of the system in action:
 
 ---
 <div align=center>  
-![Run Demo](https://img.shields.io/badge/Run_Demo-4D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)(https://replit.com/@leviisinsane/Bus-Reservation-System-BRS#BRS.C)
+![Run Demo](https://img.shields.io/badge/Run_Demo-4D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
 </div>
